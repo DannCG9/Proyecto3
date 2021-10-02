@@ -1,0 +1,36 @@
+.nav-link {
+    font-family: 'Cabin', sans-serif;
+}
+.fs-3 {
+    font-family: 'Exo', sans-serif;;
+}
+h2 {
+    font-family: 'Mr Dafoe', cursive;
+    color: coral;
+    margin-right: 70px;
+}
+.display-1 {
+    font-size: 120px;
+}
+
+.lh-lg {
+    font-family: 'Poppins', sans-serif;
+}
+.lh-l1 {
+    font-family: 'Cabin', sans-serif;
+}
+.text-primary {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    color: rgb(61, 61, 61) !important;
+}
+.text-light1 {
+    font-family: 'Lato', sans-serif;
+    color: rgb(27, 27, 27) !important;
+}
+.py-6 {
+    color: darkgrey;
+}
+.display-1 {
+    font-family: 'Secular One', sans-serif;
+}
